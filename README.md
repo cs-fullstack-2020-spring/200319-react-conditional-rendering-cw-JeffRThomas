@@ -1,5 +1,6 @@
 # 20-03-19 React Conditional Rendering CW
-
+### Good use of code a little test a little by wiring up your components. I find it hard to believe that this is ALL you got done before 4pm and I would have like to see other code in your push even if you had lots of it commented out to prevent errors. 
+### 0/5
 #### Set Up
 - Create a react app called buy-sell-app
 - Create a class based component called `AppContainer` that displays an h1 tag with the text `Buy Sell App`
